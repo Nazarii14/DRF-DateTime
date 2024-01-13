@@ -1,5 +1,5 @@
 # Django Rest Framework DateTime App
-#### Small Django API to get some stats of current time in month and year
+#### Simple Django API to get some stats of current time in month and year
 
 ### Installation
 1. Clone this repo <code>git clone https://github.com/Nazarii14/DRF-DateTime.git</code>
